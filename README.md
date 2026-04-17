@@ -13,6 +13,7 @@ The goal of this analysis is to move beyond tracking sales and focus on understa
 Many businesses focus on increasing sales without fully understanding whether those sales are generating real profit.
 
 This project answers a key question:
+
 👉 Are we growing profitably, or just increasing revenue?
 
 ---
