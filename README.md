@@ -14,7 +14,7 @@ Many businesses focus on increasing sales without fully understanding whether th
 
 This project answers a key question:
 
-👉 Are we growing profitably, or just increasing revenue?
+ Are we growing profitably, or just increasing revenue?
 
 ---
 
@@ -45,28 +45,16 @@ This project answers a key question:
 
 ---
 
-## 🛠️ Tools & Technologies
-
-* Excel / Power BI
-
----
 
 ## 📷 Dashboard Preview
 
 (Add your dashboard screenshot here)
 
 ---
+## 🛠️ Tools & Technologies
 
-## 🚀 Key Skills Demonstrated
-
-* Data Analysis
-* Data Visualization
-* Business Analysis
-* KPI Development
-* Insight Generation
+* Excel (pivot table , power query ,power pivot )
 
 ---
 
-## 📬 Contact
 
-If you have any feedback or opportunities, feel free to connect with me.
