@@ -48,7 +48,7 @@ This project answers a key question:
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
+![Sales Dashboard](dashboard.png)
 
 ---
 ## 🛠️ Tools & Technologies
